@@ -1,0 +1,55 @@
+.main_div{
+    background-color: rgb(90, 3, 86);
+}
+
+.header_div{
+    color: rgb(255, 74, 67);
+    background-color: rgb(235, 235, 235);
+    font-family: 'ZCOOL KuaiLe', cursive;
+    font-size: 20px;
+    font-variant: small-caps;
+    font-weight: bold;
+}
+
+#result_label{
+    color: rgb(144, 183, 255);
+}
+
+ .header_div p{
+     color: rgb(133, 133, 133);
+     font-family: 'Bebas Neue', cursive;
+     letter-spacing: 2px;
+ 
+ }
+
+ .main_div button{
+     width: 150px;
+     margin-top: 25px;
+     background-color: rgb(255, 255, 255);
+     color: rgb(0, 0, 0) ;
+     letter-spacing: 3px;
+     font-weight: bold;
+     height: 40px;
+     font-size: 25;
+ 
+ }
+ 
+ h3{
+     font-size: 30px;
+     font-family: 'Comic Neue', cursive;
+ }
+ 
+ .footer_div{
+     background-color: rgb(255, 255, 255);
+     text-shadow: 4px 4px 3px rgb(153, 150, 252);
+     font-size: 25px;
+     color: rgb(105, 107, 253);
+     letter-spacing: 2px;
+     position:fixed;
+     bottom: 8;
+     width: 100%;
+     line-height: 3px;
+ 
+ }
+
+ 
